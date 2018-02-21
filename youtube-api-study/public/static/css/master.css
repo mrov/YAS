@@ -1,0 +1,14 @@
+.nav_edit{
+    background: rgba(122, 114, 135, 0.8) !important;
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+}
+
+nav a{
+    color: white !important;
+}
+
+#root{
+    background: #0b0a17;
+}
